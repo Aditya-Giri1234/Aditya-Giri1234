@@ -16,13 +16,13 @@
 
 ### 🔗 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/aditya-giri" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-giri-901a02226/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Aditya Giri" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/aditya_giri" target="_blank">
+  <a href="https://stackoverflow.com/users/17464278/aditya-giri" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow - Aditya Giri" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/aditya_giri" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/aditya_giri/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks - Aditya Giri" height="30" width="40" />
   </a>
 </p>
