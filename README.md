@@ -1,92 +1,80 @@
-<h1 align="center">Hi 👋, I'm Aditya Giri</h1>
-
-<h3 align="center">🚀 Passionate Android Developer | Innovator in User-Centric Mobile Apps 🚀</h3>
-
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14a3hwNjhycm5scXgydGRxbDJyZ2J0ZmxhZHB4M21wdzAyNXduNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" alt="coding gif" width="400" height="auto"/>
+
+# Aditya Giri
+
+### 🚀 Android Developer | Innovating Mobile Experiences 🚀
+
+With **1.3 years of experience**, I specialize in developing user-friendly, high-performing Android applications. From sleek UIs to robust backends, I am dedicated to delivering impactful and efficient mobile solutions.
+
 </div>
-<p align="center">
-  I'm an Android developer dedicated to building user-friendly, innovative applications. My work focuses on ensuring quality, scalability, and intuitive design in every app. I thrive in team-oriented environments, love exploring new technologies, and constantly seek to refine my coding skills.
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-giri1234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
-### 🔗 Connect with Me:
-<p align="left">
+## 📃 About Me:
+
+- 🖥️ **Tech Stack**: Android Development
+- 🛠️ **Programming Languages**: Java, Kotlin, Dart, C
+- 📱 **UI Frameworks**: XML, Jetpack Compose
+- 🗄️ **Databases**: Realm, Room Database
+- 🛠️ **Development Tools**: Android Studio, VS Code
+- 🌐 **API Testing**: Postman
+- 🎨 **Design Tools**: Figma
+- 🌍 **Version Control**: Git
+
+---
+
+## 🔗 Connect with Me:
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aditya-giri-901a02226/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Aditya Giri" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://stackoverflow.com/users/17464278/aditya-giri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow - Aditya Giri" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
   <a href="https://www.geeksforgeeks.org/user/aditya_giri/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks - Aditya Giri" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks for Geeks">
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://realm.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="Realm" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
+## 📂 Featured Projects:
+
+### 🔥 **SocialGuru**  
+- **Description**: A social media app featuring real-time chat, posts, stories, and notifications.
+- **Technologies**: Kotlin, Firestore, Jetpack Compose  
+- **[GitHub Repository](https://github.com/Aditya-Giri1234/SocialGuru)**
+
+---
+
+## 📁 Explore My Work:
+
+- Check out all my repositories on **[GitHub](https://github.com/Aditya-Giri1234?tab=repositories)**.
+
+---
+
+## 🛠️ Libraries & Tools Expertise:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40">
 </p>
 
 ---
 
-### 📂 Featured Repositories:
-<p>
-  Check out some of my projects on GitHub! I focus on clean architecture, optimized code, and user-friendly experiences.
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-giri1234&show_icons=true&locale=en&layout=compact" alt="Top Languages">
   <br>
-  <a href="https://github.com/Aditya-Giri1234?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-giri1234" alt="GitHub Streak">
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-giri1234&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<!--<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-giri1234&show_icons=true&locale=en" alt="GitHub Stats" />
-</p> -->
