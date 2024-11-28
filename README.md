@@ -6,6 +6,8 @@
 
 With **1.3 years of experience**, I specialize in developing user-friendly, high-performing Android applications. From sleek UIs to robust backends, I am dedicated to delivering impactful and efficient mobile solutions.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Giri1234)
+
 </div>
 
 ---
