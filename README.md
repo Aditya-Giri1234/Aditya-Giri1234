@@ -11,14 +11,11 @@ With **2.1 years of experience**, I specialize in developing user-friendly, high
 
 ## 📃 About Me:
 
-- 🖥️ **Tech Stack**: Android Development
-- 🛠️ **Programming Languages**: Java, Kotlin, Dart, C
-- 📱 **UI Frameworks**: XML, Jetpack Compose
-- 🗄️ **Databases**: Realm, Room Database
-- 🛠️ **Development Tools**: Android Studio, VS Code
-- 🌐 **API Testing**: Postman
-- 🎨 **Design Tools**: Figma
-- 🌍 **Version Control**: Git
+- **Language**: Java , Kotlin , Dart
+- **UI Framework**: XML , Jetpack Compose
+- **Library**: Socket.IO, Webrtc, SIP, Coil/Glide,  Retrofit,  Room/Realm
+- **Ide**: Android Studio, VS Code
+- **Version Control**: Git
 
 ---
 
@@ -47,33 +44,9 @@ With **2.1 years of experience**, I specialize in developing user-friendly, high
 
 ---
 
-## 📁 Explore My Work:
-
-- Check out all my repositories on **[GitHub](https://github.com/Aditya-Giri1234?tab=repositories)**.
-
----
-
-## 🛠️ Libraries & Tools Expertise:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40">
-</p>
-
----
 
 ## 📈 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-giri1234&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-giri1234" alt="GitHub Streak">
 </p>
