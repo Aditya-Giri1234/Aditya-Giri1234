@@ -4,7 +4,7 @@
 
 ### 🚀 Android Developer | Innovating Mobile Experiences 🚀
 
-With **2.4 years of experience**, I specialize in developing user-friendly, high-performing Android applications. From sleek UIs to robust backends, I am dedicated to delivering impactful and efficient mobile solutions.
+With **2.5 years of experience**, I specialize in developing user-friendly, high-performing Android applications. From sleek UIs to robust backends, I am dedicated to delivering impactful and efficient mobile solutions.
 </div>
 
 ---
