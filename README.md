@@ -43,10 +43,3 @@ With **2.5 years of experience**, I specialize in developing user-friendly, high
 - **[GitHub Repository](https://github.com/Aditya-Giri1234/SocialGuru)**
 
 ---
-
-
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-giri1234&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
